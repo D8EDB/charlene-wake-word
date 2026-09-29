@@ -40,7 +40,7 @@ micro_wake_word:
       id: hey_jarvis
     - model: https://fph-firmware-assets.s3.us-east-1.amazonaws.com/wake-word/okay_nabu.json
       id: okay_nabu
-    - model: https://raw.githubusercontent.com/D8EDB/charlene-wake-word/main/hey_charlene_mww.json
+    - model: https://raw.githubusercontent.com/D8EDB/charlene-wake-word/main/hey_charlene_v2_mww.json
       id: hey_charlene
     - model: https://fph-firmware-assets.s3.us-east-1.amazonaws.com/wake-word/stop.json
       id: stop
