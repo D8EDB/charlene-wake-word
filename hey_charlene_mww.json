@@ -8,8 +8,8 @@
   ],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.85,
-    "sliding_window_size": 5,
+    "probability_cutoff": 0.5,
+    "sliding_window_size": 3,
     "feature_step_size": 10,
     "tensor_arena_size": 20000,
     "minimum_esphome_version": "2024.2.0"
