@@ -1,0 +1,17 @@
+{
+  "type": "micro",
+  "wake_word": "Hey Charlene",
+  "author": "Ed",
+  "model": "hey_charlene_v7_mww.tflite",
+  "trained_languages": [
+    "en"
+  ],
+  "version": 7,
+  "micro": {
+    "probability_cutoff": 0.80,
+    "sliding_window_size": 5,
+    "feature_step_size": 10,
+    "tensor_arena_size": 30000,
+    "minimum_esphome_version": "2024.2.0"
+  }
+}
